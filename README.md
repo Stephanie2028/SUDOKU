@@ -9,7 +9,7 @@ Stephanie Zhu Period 5
   Clone the repo and run via the run/debug button
 
 ### Files
-  Sudoku.java
-  README.md
-  DesignDoc.pdf
+- Sudoku.java
+- README.md
+- DesignDoc.pdf
 
